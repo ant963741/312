@@ -1,0 +1,27 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+assembler
+
+# IDE / Editor files
+*.dev
+*.layout
+*.win
+*.sln
+*.vcxproj*
+*.suo
+*.user
+.vs/
+.vscode/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.bak
